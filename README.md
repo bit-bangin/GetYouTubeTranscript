@@ -36,7 +36,7 @@ If you should have questions, or find that there is something you would like to 
 ## Licensing
 This project is licensed under an [MIT License](https://github.com/bit-bangin/GetYouTubeTranscript/blob/39c7ae7f056162e966d89d756306a06faf30ebf7/LICENSE)
 
-## Follow Me!
+## Let's Connect!
 <html>
 <a href="https://dev.to/bitbanging">
   <img align="left" alt="Emily | DEV" width="22px" src="https://github.com/bit-bangin/.github/blob/213d2e11f821a71be9bf84ea674a3651caf48643/DEVlogo.svg" />
